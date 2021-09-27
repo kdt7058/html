@@ -1,25 +1,25 @@
-body {
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: black;
-    font-size: 200%;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  a:link{
-      
-      color:black;
-  }
-    a:visited{
-        color:rgb(45, 0, 128);
-    }
-  img{
-      width: 50%;
-      margin-left: auto;
-      margin-right: auto;   
-  }
-
-
-  
+h1 {
+  color: blue;
+}
+p {
+  color: black;
+  font-size: 200%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: rgb(45, 0, 128);
+}
+img {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bg-primary {
+  background-color: green;
+}
+.container {
+  background-color: yellowgreen;
+}
